@@ -1,0 +1,34 @@
+{
+  "name": "tsjest",
+  "version": "1.0.0",
+  "description": "ts使用jest",
+  "keywords": [],
+  "main": "src/index.tsx",
+  "dependencies": {
+    "react": "16.8.4",
+    "react-dom": "16.8.4",
+    "react-scripts": "2.1.3",
+    "ts-jest": "24.0.2",
+    "react-router-dom": "^4.2.2"
+  },
+  "devDependencies": {
+    "@types/react": "16.8.8",
+    "@types/react-dom": "16.8.2",
+    "@types/react-router-dom": "^4.2.3",
+    "@types/history": "^4.6.2",
+    "typescript": "3.3.3",
+    "babel-loader": "8.0.4",
+    "antd": "3.22.0"
+  },
+  "scripts": {
+    "start": "npx react-scripts start",
+    "build": "npx react-scripts build",
+    "eject": "npx react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
