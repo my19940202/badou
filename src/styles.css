@@ -9,3 +9,19 @@
     line-height: 50px;
     border: 1px solid #333;
 }
+
+.user-center {
+    height: 31px;
+    padding: 0 10px;
+    line-height: 31px;
+    font-size: 16px;
+    margin: 16px 0;
+    float: right;
+    color: #fff;
+}
+.table-filter-wrapper button {
+    margin-right: 10px;
+}
+.table-filter-wrapper button:last-child {
+    margin-right: 0;
+}
