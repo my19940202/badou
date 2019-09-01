@@ -1,7 +1,6 @@
 import * as React from "react";
 import BraftEditor from 'braft-editor';
 import 'braft-editor/dist/index.css';
-
 import {Table, Divider, Tag, Button, Icon} from 'antd';
 
 interface AddTplState {

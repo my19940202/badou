@@ -28,6 +28,7 @@
     "eject": "npx react-scripts eject",
     "server": "npx pm2 start server.js --watch"
   },
+  "proxy": "http://localhost:8822",
   "browserslist": [
     ">0.2%",
     "not dead",

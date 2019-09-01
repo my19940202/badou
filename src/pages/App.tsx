@@ -11,7 +11,8 @@ export class App extends React.Component<{}, {}> {
 
     render() {
         return (
-            // 还是没有完全理解路由的使用情况
+            // TODO: 还没有完全理解路由的使用情况
+            // 需要深入了解一下
             <Switch>
                 <Route path="/:category/:pages" component={Index} />
                 <Route exact={true} path="/user" component={pageUser} />
